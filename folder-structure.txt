@@ -1,0 +1,18 @@
+src/
+
+ actions/index.js
+ actions/folder_name/index.js
+ 
+ assets/index.js
+ assets/Icons/index.js
+ assets/Images/index.js
+ 
+ components/index.js
+ components/folder_name/index.js
+ 
+ container
+ hooks/reducer_level hooks
+ languages
+ reducers
+ styles
+ utils
